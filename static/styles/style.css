@@ -13,3 +13,7 @@ form {
     left: 50%;
     transform: translate(-50%, -50%); 
 }
+
+form > * {
+    font-size: 2rem;
+}
