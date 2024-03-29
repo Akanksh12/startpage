@@ -17,3 +17,7 @@ form {
 form > * {
     font-size: 2rem;
 }
+
+input {
+    border-radius: 10px;
+}
